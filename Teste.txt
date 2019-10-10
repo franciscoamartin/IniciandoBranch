@@ -8,5 +8,5 @@
 8 - 20teas
 9 - teste
 10 - all
-11 - tes
+11 - te
 12 -
